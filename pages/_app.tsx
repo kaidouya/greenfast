@@ -1,6 +1,7 @@
 import { createGlobalStyle } from 'styled-components';
 import { Normalize } from 'styled-normalize';
 import type { AppProps } from 'next/app';
+import 'fontsource-roboto';
 
 const GlobalStyles = createGlobalStyle``;
 
